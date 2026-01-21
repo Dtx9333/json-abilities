@@ -1,0 +1,1028 @@
+{
+  "hydratation": {
+    "type": [
+      "water",
+      "grass"
+    ],
+    "rarity": 1,
+    "info": "Prevents negative status effects while on <span data-buff=\"rainy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #539DDF\">Rainy</span></span> weather"
+  },
+  "sandVeil": {
+    "type": [
+      "ground"
+    ],
+    "rarity": 1,
+    "info": "Prevents negative status effects while on <span data-buff=\"sandstorm\"><span style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #DA7C4D\">Sandstorm</span></span> weather"
+  },
+  "snowCloak": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 1,
+    "info": "Prevents negative status effects while on <span data-buff=\"hail\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Hail</span></span> weather"
+  },
+  "grabGuard": {
+    "type": [
+      "fighting"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Fighting-type moves"
+  },
+  "waterGuard": {
+    "type": [
+      "water"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Water-type moves"
+  },
+  "flameGuard": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Flame-type moves"
+  },
+  "curseGuard": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Ghost-type moves"
+  },
+  "poisonGuard": {
+    "type": [
+      "poison"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Poison-type moves"
+  },
+  "iceGuard": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Ice-type moves"
+  },
+  "psychicGuard": {
+    "type": [
+      "psychic"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Psychic-type moves"
+  },
+  "fairyGuard": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Fairy-type moves"
+  },
+  "leafGuard": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Grass-type moves"
+  },
+  "plainGuard": {
+    "type": [
+      "normal"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Normal-type moves"
+  },
+  "sinisterGuard": {
+    "type": [
+      "dark"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Dark-type moves"
+  },
+  "steelGuard": {
+    "type": [
+      "steel"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Steel-type moves"
+  },
+  "dragonGuard": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Dragon-type moves"
+  },
+  "bugGuard": {
+    "type": [
+      "bug"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Bug-type moves"
+  },
+  "rockGuard": {
+    "type": [
+      "rock"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Rock-type moves"
+  },
+  "groundGuard": {
+    "type": [
+      "ground"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Ground-type moves"
+  },
+  "flyingGuard": {
+    "type": [
+      "flying"
+    ],
+    "rarity": 1,
+    "info": "Halves the damage received of Flying-type moves"
+  },
+  "insomnia": {
+    "type": [
+      "all"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"sleep\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #A0A29F\">Sleep</span></span>"
+  },
+  "immunity": {
+    "type": [
+      "all"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"poisoned\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #B763CF\">Poisoned</span></span>"
+  },
+  "limber": {
+    "type": [
+      "all"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"paralysis\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #F2D94E\">Paralysis</span></span>"
+  },
+  "ownTempo": {
+    "type": [
+      "all"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"confused\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FA8582\">Confused</span></span>"
+  },
+  "magmaArmor": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"freeze\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Freeze</span></span>"
+  },
+  "waterVeil": {
+    "type": [
+      "water",
+      "ice"
+    ],
+    "rarity": 1,
+    "info": "Grants immunity to <span data-buff=\"burn\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Burn</span></span>"
+  },
+  "marvelScale": {
+    "type": [
+      "water",
+      "dragon"
+    ],
+    "rarity": 1,
+    "info": "Increases Defense by 50% if afflicted with a status effect"
+  },
+  "livingShield": {
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "rarity": 1,
+    "info": "Increases Special Defense by 50% if afflicted with a status effect"
+  },
+  "overgrow": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Grass-type moves by 30% below 50% HP"
+  },
+  "blaze": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Fire-type moves by 30% below 50% HP"
+  },
+  "swarm": {
+    "type": [
+      "bug"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Bug-type moves by 30% below 50% HP"
+  },
+  "torrent": {
+    "type": [
+      "water"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Water-type moves by 30% below 50% HP"
+  },
+  "bastion": {
+    "type": [
+      "steel"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Steel-type moves by 30% below 50% HP"
+  },
+  "average": {
+    "type": [
+      "normal"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Normal-type moves by 30% below 50% HP"
+  },
+  "resolve": {
+    "type": [
+      "fighting"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Fighting-type moves by 30% below 50% HP"
+  },
+  "mistify": {
+    "type": [
+      "psychic"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Psychic-type moves by 30% below 50% HP"
+  },
+  "hexerei": {
+    "type": [
+      "ghost"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Ghost-type moves by 30% below 50% HP"
+  },
+  "glimmer": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Fairy-type moves by 30% below 50% HP"
+  },
+  "skyward": {
+    "type": [
+      "flying"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Flying-type moves by 30% below 50% HP"
+  },
+  "draconic": {
+    "type": [
+      "dragon"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Dragon-type moves by 30% below 50% HP"
+  },
+  "noxious": {
+    "type": [
+      "poison"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Poison-type moves by 30% below 50% HP"
+  },
+  "solid": {
+    "type": [
+      "rock"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Rock-type moves by 30% below 50% HP"
+  },
+  "rime": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Ice-type moves by 30% below 50% HP"
+  },
+  "voltage": {
+    "type": [
+      "electric"
+    ],
+    "rarity": 1,
+    "info": "Increases the power of Electric-type moves by 30% below 50% HP"
+  },
+  "hyperCutter": {
+    "type": [
+      "bug"
+    ],
+    "rarity": 1,
+    "info": "Prevents the lowering of the Attack stat"
+  },
+  "bigPecks": {
+    "type": [
+      "flying"
+    ],
+    "rarity": 1,
+    "info": "Prevents the lowering of the Defense stat"
+  },
+  "wonderSkin": {
+    "type": [
+      "all"
+    ],
+    "rarity": 1,
+    "info": "50% chance for received Status Effects to miss"
+  },
+  "synchronize": {
+    "type": [
+      "all"
+    ],
+    "rarity": 2,
+    "info": "Inflicts active status effects to the attacker aswell"
+  },
+  "solarPower": {
+    "type": [
+      "fire",
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "Increases Special Attack by 50% on <span data-buff=\"sunny\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Sunny</span></span> weather"
+  },
+  "iceBody": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 2,
+    "info": "Increases Defense by 50% on <span data-buff=\"hail\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Hail</span></span> weather"
+  },
+  "rainDish": {
+    "type": [
+      "water",
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "Increases Special Attack by 50% on <span data-buff=\"rainy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #539DDF\">Rainy</span></span> weather"
+  },
+  "sandForce": {
+    "type": [
+      "ground"
+    ],
+    "rarity": 2,
+    "info": "Increases Attack by 50% on <span data-buff=\"sandstorm\"><span style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #DA7C4D\">Sandstorm</span></span> weather"
+  },
+  "static": {
+    "type": [
+      "electric"
+    ],
+    "rarity": 2,
+    "info": "10% chance to inflict <span data-buff=\"paralysis\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #F2D94E\">Paralysis</span></span> when attacked"
+  },
+  "flameBody": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 2,
+    "info": "10% chance to inflict <span data-buff=\"burn\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Burn</span></span> when attacked"
+  },
+  "poisonPoint": {
+    "type": [
+      "poison"
+    ],
+    "rarity": 2,
+    "info": "10% chance to inflict <span data-buff=\"poisoned\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #B763CF\">Poisoned</span></span> when attacked"
+  },
+  "strangeCharm": {
+    "type": [
+      "psychic",
+      "fairy"
+    ],
+    "rarity": 2,
+    "info": "10% chance to inflict <span data-buff=\"confused\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FA8582\">Confused</span></span> when attacked"
+  },
+  "effectSpore": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "5% chance to inflict <span data-buff=\"sleep\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #A0A29F\">Sleep</span></span> when attacked"
+  },
+  "glacialBody": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 2,
+    "info": "5% chance to inflict <span data-buff=\"freeze\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Freeze</span></span> when attacked"
+  },
+  "naturalCure": {
+    "type": [
+      "all"
+    ],
+    "rarity": 2,
+    "info": "Status effects are cleared when switching Pokemon"
+  },
+  "technician": {
+    "type": [
+      "all"
+    ],
+    "rarity": 2,
+    "info": "Multiplies by 1.5x the base damage of moves with equal or less than 60 power"
+  },
+  "scrappy": {
+    "type": [
+      "normal",
+      "fighting"
+    ],
+    "rarity": 2,
+    "info": "Ghost-type pokemon can be hit with Normal and Fighting-type moves"
+  },
+  "unaware": {
+    "type": [
+      "all"
+    ],
+    "rarity": 2,
+    "info": "When attacking, ignores the target's stat changes"
+  },
+  "magicGuard": {
+    "type": [
+      "psychic",
+      "fairy"
+    ],
+    "rarity": 2,
+    "info": "Can only take damage from direct damaging moves"
+  },
+  "voltAbsorb": {
+    "type": [
+      "electric"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Electric-type moves"
+  },
+  "waterAbsorb": {
+    "type": [
+      "water"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Water-type moves"
+  },
+  "flareAbsorb": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Fire-type moves"
+  },
+  "curseAbsorb": {
+    "type": [
+      "dark"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Ghost-type moves"
+  },
+  "poisonAbsorb": {
+    "type": [
+      "poison"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Poison-type moves"
+  },
+  "frostAbsorb": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Ice-type moves"
+  },
+  "psychicAbsorb": {
+    "type": [
+      "psychic"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Psychic-type moves"
+  },
+  "lightAbsorb": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Fairy-type moves"
+  },
+  "growthAbsorb": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "Nullifies received Grass-type moves"
+  },
+  "strongJaw": {
+    "type": [
+      "dark"
+    ],
+    "rarity": 2,
+    "info": "\"Fang\"-related moves have their base damage multiplied by x2 <span style=\"opacity:0.7\">(Fire Fang, Thunder Fang, Shark Jaws, Poison Fang, Ice Fang, Bug Bite, Psychic Fangs, Bite, and Crunch)</span>"
+  },
+  "toughClaws": {
+    "type": [
+      "dragon"
+    ],
+    "rarity": 2,
+    "info": "\"Claw\"-related moves have their base damage multiplied by x2 <span style=\"opacity:0.7\">(Metal Claw, Razor Talons, Poison Claw, Shadow Claw, and Dragon Claw)</span>"
+  },
+  "ironFist": {
+    "type": [
+      "fighting"
+    ],
+    "rarity": 2,
+    "info": "\"Punch\"-related moves have their base damage multiplied by x1.5 <span style=\"opacity:0.7\">(Dizzy Punch, Fire Punch, Thunder Punch, Bullet Punch, Poison Jab, Ice Punch, Mach Punch, Powerup Punch, Force Palm, Shadow Punch, Aurora Punch, Comet Punch, Dynamic Punch, and Rage Fist)</span>"
+  },
+  "rivalry": {
+    "type": [
+      "dragon",
+      "dark"
+    ],
+    "rarity": 2,
+    "info": "Multiplies the damage by x1.5 when the opposite Pokemon shares a type"
+  },
+  "pickPocket": {
+    "type": [
+      "dark",
+      "flying",
+      "normal"
+    ],
+    "rarity": 2,
+    "info": "Increases the weight of rare item drops by 1% (Can stack)"
+  },
+  "brittleArmor": {
+    "type": [
+      "ice",
+      "rock"
+    ],
+    "rarity": 2,
+    "info": "Increases Special Attack by 50% if afflicted with a status effect"
+  },
+  "grassyPelt": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "Prevents negative stat changes and status effects while on <span data-buff=\"rainy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #539DDF\">Rainy</span></span> weather"
+  },
+  "sandyPelt": {
+    "type": [
+      "ground"
+    ],
+    "rarity": 2,
+    "info": "Prevents negative stat changes and status effects while on <span data-buff=\"sunny\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Sunny</span></span> weather"
+  },
+  "moistPelt": {
+    "type": [
+      "water"
+    ],
+    "rarity": 2,
+    "info": "Prevents negative stat changes and status effects while on <span data-buff=\"sandstorm\"><span style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #DA7C4D\">Sandstorm</span></span> weather"
+  },
+  "fieryPelt": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 2,
+    "info": "Prevents negative stat changes and status effects while on <span data-buff=\"hail\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Hail</span></span> weather"
+  },
+  "pixiePelt": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 2,
+    "info": "Prevents negative stat changes and status effects while on <span data-buff=\"foggy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #5F6DBC\">Foggy</span></span> weather"
+  },
+  "chlorophyll": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 2,
+    "info": "Increases Speed by 50% on <span data-buff=\"sunny\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Sunny</span></span> weather"
+  },
+  "slushRush": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 3,
+    "info": "Increases Speed by 50% on <span data-buff=\"hail\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Hail</span></span> weather"
+  },
+  "swiftSwim": {
+    "type": [
+      "water"
+    ],
+    "rarity": 3,
+    "info": "Increases Speed by 50% on <span data-buff=\"rainy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #539DDF\">Rainy</span></span> weather"
+  },
+  "sandRush": {
+    "type": [
+      "ground"
+    ],
+    "rarity": 3,
+    "info": "Increases Speed by 50% on <span data-buff=\"sandstorm\"><span style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #DA7C4D\">Sandstorm</span></span> weather"
+  },
+  "intimidate": {
+    "type": [
+      "dragon",
+      "ghost"
+    ],
+    "rarity": 3,
+    "info": "Decreases enemy Attack by 50% when the opposing Pokemon enters the battle"
+  },
+  "dauntingLook": {
+    "type": [
+      "bug",
+      "fire",
+      "fighting"
+    ],
+    "rarity": 3,
+    "info": "Decreases enemy Special Attack by 50% when the opposing Pokemon enters the battle"
+  },
+  "unburden": {
+    "type": [
+      "normal",
+      "fighting",
+      "flying"
+    ],
+    "rarity": 3,
+    "info": "Increases Speed by 50% if no item is being held"
+  },
+  "moxie": {
+    "type": [
+      "dark"
+    ],
+    "rarity": 3,
+    "info": "Increases Attack by 50% when defeating a Pokemon"
+  },
+  "strategist": {
+    "type": [
+      "psychic"
+    ],
+    "rarity": 3,
+    "info": "Increases Special Attack by 50% when defeating a Pokemon"
+  },
+  "sheerForce": {
+    "type": [
+      "ground",
+      "steel",
+      "rock"
+    ],
+    "rarity": 3,
+    "info": "Positive secondary effect of damaging moves are removed, and their damage is multiplied by x1.2"
+  },
+  "levitate": {
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "rarity": 3,
+    "info": "Grants immunity to Ground-type moves"
+  },
+  "thickFat": {
+    "type": [
+      "normal",
+      "ice"
+    ],
+    "rarity": 3,
+    "info": "Halves damage received from Fire and Ice-type moves"
+  },
+  "adaptability": {
+    "type": [
+      "all"
+    ],
+    "rarity": 3,
+    "info": "Multiplies Same-Type-Attack-Bonus by x1.2"
+  },
+  "noGuard": {
+    "type": [
+      "all"
+    ],
+    "rarity": 3,
+    "info": "Moves always hit regardless of the type"
+  },
+  "multiscale": {
+    "type": [
+      "water"
+    ],
+    "rarity": 3,
+    "info": "Damage received is halved when over 50% HP"
+  },
+  "guts": {
+    "type": [
+      "normal"
+    ],
+    "rarity": 3,
+    "info": "Increases Attack by 50% if afflicted with a status effect, and nullifies the stat redution of the condition"
+  },
+  "skillLink": {
+    "type": [
+      "bug",
+      "normal"
+    ],
+    "rarity": 3,
+    "info": "Moves that hit multiple times always hit their maximum amount"
+  },
+  "sharpness": {
+    "type": [
+      "steel"
+    ],
+    "rarity": 3,
+    "info": "\"Sharp\"-related moves have their base damage multiplied by x1.5 <span style=\"opacity:0.7\">(Cut, Smart Strike, Air Slash, Ice Shard, Fury Cutter, X Scissor, Razor Leaf, Leaf Blade, Psycho Cut, Night Slash, Razor Shell, and Spacial Rend)</span>"
+  },
+  "angerPoint": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 3,
+    "info": "Increase Attack by 100% when hit with a super-effective move"
+  },
+  "justified": {
+    "type": [
+      "fighting"
+    ],
+    "rarity": 3,
+    "info": "Increase Special Attack by 100% when hit with a super-effective move"
+  },
+  "filter": {
+    "type": [
+      "bug",
+      "ground"
+    ],
+    "rarity": 3,
+    "info": "Super-effective damage taken multiplier is halved"
+  },
+  "reckless": {
+    "type": [
+      "flying"
+    ],
+    "rarity": 3,
+    "info": "Moves that execute slower than usual have their move power multiplied by x1.5"
+  },
+  "libero": {
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "rarity": 3,
+    "info": "Moves that execute faster than usual have their move power multiplied by x2"
+  },
+  "flashElectro": {
+    "type": [
+      "electric"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Electric-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashAqua": {
+    "type": [
+      "water"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Water-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashPyro": {
+    "type": [
+      "fire"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Fire-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashUmbra": {
+    "type": [
+      "dark"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Ghost-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashVenum": {
+    "type": [
+      "poison"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Poison-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashCryo": {
+    "type": [
+      "ice"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Ice-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashPsycha": {
+    "type": [
+      "psychic"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Psychic-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashFae": {
+    "type": [
+      "fairy"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Fairy-type moves and increases Speed by 50% after being hit with one"
+  },
+  "flashHerba": {
+    "type": [
+      "grass"
+    ],
+    "rarity": 3,
+    "info": "Nullifies received Grass-type moves and increases Speed by 50% after being hit with one"
+  },
+  "tintedLens": {
+    "rarity": 3,
+    "info": "Moves that are resisted by typing do instead normal damage"
+  },
+  "prankster": {
+    "rarity": 3,
+    "info": "Ghost and Dark-type moves are x1.5 faster than usual"
+  },
+  "galeWings": {
+    "rarity": 3,
+    "info": "Flying and Bug moves are x1.5 faster than usual"
+  },
+  "speedBoost": {
+    "rarity": 3,
+    "info": "Increases Speed by 50% when defeating a Pokemon"
+  },
+  "scorch": {
+    "rarity": 3,
+    "info": "Enemy damage over time from <span data-buff=\"burn\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Burn</span></span> is doubled while this Pokemon is active"
+  },
+  "corrosion": {
+    "rarity": 3,
+    "info": "Enemy damage over time from <span data-buff=\"poisoned\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #B763CF\">Poisoned</span></span> is doubled while this Pokemon is active"
+  },
+  "dancer": {
+    "rarity": 3,
+    "info": "\"Dance\"-related moves are executed twice as fast <span style=\"opacity:0.7\">(Swords Dance, Feather Dance, Rain Dance, Agility, Dragon Dance, Belly Drum, Aqua Step, Revelation Dance, Quiver Dance, Drum Beating, and Fiery Dance)<span>"
+  },
+  "cacophony": {
+    "rarity": 3,
+    "info": "\"Sound\"-related moves are executed twice as fast <span style=\"opacity:0.7\">(Growl, Screech, Hyper Voice, Metal Sound, Bug Buzz, Snarl, Disarming Voice, Echoed Voice, Alluring Voice, Boomburst, Sparkling Aria, Chatter, Roar Of Time, Clanging Scales, Relic Song, and Torch Song)<span>"
+  },
+  "megaLauncher": {
+    "rarity": 3,
+    "info": "\"Pulse\"-related moves have their base damage multiplied by x1.5 <span style=\"opacity:0.7\">(Fire Blast, Flash Cannon, Aurora Beam, Water Pulse, Energy Ball, Aura Sphere, Focus Blast, Rock Blast, Shadow Ball, Dragon Pulse, Dark Pulse, Moonblast, Hydro Cannon, and Chloroblast)<span>"
+  },
+  "metalhead": {
+    "rarity": 3,
+    "info": "\"Head\"-related moves have their base damage multiplied by x1.5 <span style=\"opacity:0.7\">(Iron Head, Rock Smash, Zen Headbutt, Head Charge, Megahorn, Psyshield Bash, and Headlong Rush)<span>"
+  },
+  "imposter": {
+    "rarity": 3,
+    "info": "Copies the positive stat increases of the enemy"
+  },
+  "toxicBoost": {
+    "rarity": 3,
+    "info": "Increases the Damage dealt by x1.2 when afflicted with <span data-buff=\"poisoned\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #B763CF\">Poisoned</span></span>, and nullifies the damage overtime caused by it"
+  },
+  "flareBoost": {
+    "rarity": 3,
+    "info": "Increases the Damage dealt by x1.2 when afflicted with <span data-buff=\"burn\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Burn</span></span>, and nullifies the damage overtime caused by it"
+  },
+  "fullMetalBody": {
+    "rarity": 3,
+    "info": "Prevents all stat decreases"
+  },
+  "supremeOverlord": {
+    "rarity": 3,
+    "info": "Increases the Damage dealt by x1.15 for every team member defeated"
+  },
+  "gorillaTactics": {
+    "rarity": 3,
+    "info": "Increases the Attack by x1.2, but prevents them from switching"
+  },
+  "beastBoost": {
+    "rarity": 3,
+    "info": "Increases the highest stat of the user by 50% when defeating a Pokemon"
+  },
+  "quarkDrive": {
+    "rarity": 3,
+    "info": "Increases the highest stat of the user by 50% on <span data-buff=\"electricTerrain\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #F2D94E\">Electric Terrain</span></span>"
+  },
+  "protosynthesis": {
+    "rarity": 3,
+    "info": "Increases the highest stat of the user by 50% on <span data-buff=\"sunny\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Sunny</span></span> weather"
+  },
+  "drizzle": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"rainy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #539DDF\">Rainy</span></span> when entering or switching into the battle"
+  },
+  "drought": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"sunny\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #FBA64C\">Sunny</span></span> when entering or switching into the battle"
+  },
+  "sandStream": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"sandstorm\"><span style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #DA7C4D\">Sandstorm</span></span> when entering or switching into the battle"
+  },
+  "snowWarning": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"hail\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #76D1C1\">Hail</span></span> when entering or switching into the battle"
+  },
+  "somberField": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"foggy\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #5F6DBC\">Foggy</span></span> when entering or switching into the battle"
+  },
+  "electricSurge": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"electricTerrain\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #F2D94E\">Electric Terrain</span></span> when entering or switching into the battle"
+  },
+  "grassySurge": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"grassyTerrain\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #60BE58\">Grassy Terrain</span></span> when entering or switching into the battle"
+  },
+  "mistySurge": {
+    "rarity": 3,
+    "info": "Changes the weather to <span data-buff=\"mistyTerrain\"><span  style=\"color:white;cursor:help;padding: 0.1rem 0.7rem; border-radius: 0.2rem; font-size:1.1rem; width: auto; background: #EF90E6\">Misty Terrain</span></span> when entering or switching into the battle"
+  },
+  "sereneGrace": {
+    "rarity": 3,
+    "info": "Secondary effect of moves are executed twice"
+  },
+  "hugePower": {
+    "rarity": 3,
+    "info": "Attack stat is multiplied by x2"
+  },
+  "contrary": {
+    "rarity": 3,
+    "info": "Inverts stat changes. Positive changes become negative, and negative become positive"
+  },
+  "protean": {
+    "rarity": 3,
+    "info": "Changes the type of the user to match the type of the used move"
+  },
+  "simple": {
+    "rarity": 3,
+    "info": "Stat changes on the user are boosted by a stage"
+  },
+  "parentalBond": {
+    "rarity": 3,
+    "info": "Moves are executed a second time, at half power"
+  },
+  "moody": {
+    "rarity": 3,
+    "info": "Every turn, raises two stats by 100% for one turn"
+  },
+  "darkAura": {
+    "rarity": 3,
+    "info": "Multiplies by x1.1 the power of Dark-type moves of all team members"
+  },
+  "normalize": {
+    "rarity": 3,
+    "info": "All moves become Normal-type moves, and their power is multiplied by x1.2"
+  },
+  "ferrilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Steel-type moves, and their power is multiplied by x1.3"
+  },
+  "glaciate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Ice-type moves, and their power is multiplied by x1.3"
+  },
+  "terralate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Ground-type moves, and their power is multiplied by x1.3"
+  },
+  "toxilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Poison-type moves, and their power is multiplied by x1.3"
+  },
+  "hydrolate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Water-type moves, and their power is multiplied by x1.3"
+  },
+  "pyrolate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Fire-type moves, and their power is multiplied by x1.3"
+  },
+  "chrysilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Bug-type moves, and their power is multiplied by x1.3"
+  },
+  "galvanize": {
+    "rarity": 3,
+    "info": "Normal-type moves become Electric-type moves, and their power is multiplied by x1.3"
+  },
+  "gloomilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Dark-type moves, and their power is multiplied by x1.3"
+  },
+  "espilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Psychic-type moves, and their power is multiplied by x1.3"
+  },
+  "aerilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Flying-type moves, and their power is multiplied by x1.3"
+  },
+  "pixilate": {
+    "rarity": 3,
+    "info": "Normal-type moves become Fairy-type moves, and their power is multiplied by x1.3"
+  },
+  "verdify": {
+    "rarity": 3,
+    "info": "Normal-type moves become Grass-type moves, and their power is multiplied by x1.3"
+  }
+}
